@@ -1,7 +1,5 @@
-* Initial commit
+# Initial commit
 
 - Line #1
-
 - Line #2 - cecilia 2.1
-
 - Line #3 - cecilia 3.1
